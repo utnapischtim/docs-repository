@@ -46,6 +46,13 @@ nav:
     - SSH-key: 'configs/sshkey.md'
     - CEPH: 'configs/ceph.md'
     - Override Pages: 'configs/override-pages.md'
+  - Datamodel:
+    - Overview: 'datamodel/index.md'
+    - Various Possibilities: 'datamodel/various_possibilities.md'
+    - Custom Fields: 'datamodel/custom_fields.md'
+    - Master Format: 'datamodel/master_format.md'
+    - Independent Data Model: 'datamodel/independent_data_model.md'
+    - Dependent Data Model: 'datamodel/dependent_data_model.md'
 
 # Customization
 extra:

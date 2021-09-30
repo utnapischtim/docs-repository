@@ -26,3 +26,9 @@ In this session, we will explore the services that has been added to make your d
 For more configurations such as How the gitlab-runners are registered? How the Database is setup? And so much more...
 
 [> Configurations](configs/index.md)
+
+
+## Datamodel
+To implement your own data model
+
+[> Data Model](datamodel/index.md)
